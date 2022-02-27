@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-receipe-book/static/css/main.02aba9d2.css",
+    "main.js": "/react-receipe-book/static/js/main.04b63a3f.js",
+    "static/js/787.79335893.chunk.js": "/react-receipe-book/static/js/787.79335893.chunk.js",
+    "static/media/altiimg.jpg": "/react-receipe-book/static/media/altiimg.f2dd6273db76a32bd017.jpg",
+    "index.html": "/react-receipe-book/index.html",
+    "main.02aba9d2.css.map": "/react-receipe-book/static/css/main.02aba9d2.css.map",
+    "main.04b63a3f.js.map": "/react-receipe-book/static/js/main.04b63a3f.js.map",
+    "787.79335893.chunk.js.map": "/react-receipe-book/static/js/787.79335893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02aba9d2.css",
+    "static/js/main.04b63a3f.js"
+  ]
+}
