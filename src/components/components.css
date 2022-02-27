@@ -1,0 +1,138 @@
+/* Side Bar Classes */
+.sidebar{
+    height:100vh;
+    width:22%;
+    background-color: rgb(85, 247, 85);
+    color: white;
+}
+.producttitle{
+    padding:20px 20px 20px 10px;
+    color:green;
+    font-weight: bold;
+    font-size: 2vw;
+}
+.sidebarbtn{
+    color: white;
+    background-color: rgb(16, 97, 16);
+    border:2px solid rgb(86, 221, 86);
+    width:100%;
+    margin-bottom: 30px; 
+}
+/* Book Component Classes */
+.bookcomponent{
+    position: absolute;
+    left: 20%;
+    top:0%;
+    height:100vh;
+    width:78%;
+}
+input{
+    position: relative;
+    top:10%;
+    left:20%;
+    width:60%;
+    margin-bottom: 20px;
+    padding:5px;
+}
+input:focus{
+    outline: none;
+    border:2px solid black
+}
+.productBox{
+    position: relative;
+    top:10%;
+    left:20%;
+    background-color: rgb(85, 247, 85);
+    width:60%;
+    padding:2%;
+    border:2px solid rgb(86, 221, 86);
+    color:green;
+    font-weight: bold;
+}
+.display{ 
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+}
+.margin-left{
+    margin-left: 5%;
+}
+.title{
+    padding:25px 20px 20px 8%;;
+    color: green
+}
+.Countbtn{
+    border: none;
+    width:25%;
+    margin:0 10px 0 10px
+}
+.nextStep{
+    position:absolute;
+    left:85%;
+    border:2px solid rgb(84, 189, 84);;
+    top:85%;
+    width:15%;
+    background-color: green;
+    color:white
+}
+.productname{
+    background-color: white;
+    width:70%;
+    text-align: center;
+
+}
+/* Receipe Component Classes */
+.receipetitle{
+    color: green;
+    font-style:italic;
+    font-weight: bold;
+}
+.receipeBox{
+    position: absolute;
+    top:10%;
+    left:20%;
+    width:60%;
+}
+table,tr{
+    border:2px solid black;
+
+}
+th{
+    width:94%;
+    
+}
+.receipeimage{
+    width:100%;
+    height: 150px;
+    border: 2px solid black;
+    margin-bottom: 3%;
+
+}
+.margin3{
+    margin-bottom: 3%;
+
+}
+.altimg{
+    position: absolute;
+    width:60%;
+    margin-left:20%;
+    height: 147px;
+    background-color: rgb(184, 245, 184);
+   
+}
+.alttext{
+    text-align: center;
+    padding-top: 10%;;
+    font-size: 2vw;
+}
+.receipeimg{
+    position: absolute; 
+    width:50%;
+    left:25%;
+    height: 147px; 
+}
+.leftshift{
+    padding-left: 3%;
+    font-weight: 600;
+
+}
+
